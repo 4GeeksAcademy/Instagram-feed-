@@ -1,0 +1,42 @@
+.post{
+    margin: auto;
+}
+
+#fontfamily{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-header{
+    display: flex;
+}
+
+#iconhtml{
+    font-size: 28px;
+    padding: 4px; 
+}
+
+#icondots{
+    margin-left: 92%;
+    padding: 4px;
+    font-size: 28px;
+
+}
+
+#text{
+    margin-left: 2px;
+}
+
+.post-icons{
+    display: flex;
+}
+
+.fa-regular{
+    margin-left: 5px;
+    font-size: 28px;
+}
+#bookmark{
+    margin-left: 91.5%;
+}
+.lasttext{
+    padding-left: 10px;
+}
